@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hyejung Kim.</h1>
 <h3 align="left">I am a backend developer who wants to develop.</h3>
 
-- 🌱 I’m currently learning **2023.10.25 ~**
+- 🌱 I’m currently learning **2023.10.25~**
 
 - 📝 I regularly write articles on [https://velog.io/@hyekjung/posts](https://velog.io/@hyekjung/posts)
 
